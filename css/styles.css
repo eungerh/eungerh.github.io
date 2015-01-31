@@ -1,0 +1,25 @@
+img {
+	border: 4px solid #151A73;
+}
+h1 {
+	color: #660066;
+}
+a {
+	color: #CC0033;
+	text-decoration: none
+}
+li { list-style-type: square;
+}
+
+h2{
+	color: #151A73;
+}
+h3{
+	color: #151A73;
+}
+body{
+	background-image: url("http://www.dbimages.ca/backgrounds/silver-chevron.jpg");
+	background-repeat: no-repeat;
+	background-position: left top;
+
+}
